@@ -1,0 +1,38 @@
+Blood Glucose Test - Medical Reference
+Source: MedlinePlus/NIH
+
+OVERVIEW:
+A blood glucose test measures the amount of glucose (sugar) in your blood. It is used to diagnose and monitor diabetes and prediabetes.
+
+NORMAL REFERENCE RANGES:
+Fasting Blood Glucose (no food for 8 hours):
+- Normal: 70 to 99 mg/dL
+- Prediabetes: 100 to 125 mg/dL
+- Diabetes: 126 mg/dL or higher (confirmed with repeat test)
+
+Random Blood Glucose (any time of day):
+- Normal: Less than 140 mg/dL
+- Diabetes likely: 200 mg/dL or higher with symptoms
+
+HbA1c (3-month average):
+- Normal: Below 5.7%
+- Prediabetes: 5.7% to 6.4%
+- Diabetes: 6.5% or higher
+
+Postprandial (2 hours after eating):
+- Normal: Less than 140 mg/dL
+- Prediabetes: 140 to 199 mg/dL
+- Diabetes: 200 mg/dL or higher
+
+WHAT ABNORMAL RESULTS MEAN:
+High blood glucose (Hyperglycemia):
+- May indicate diabetes or prediabetes
+- Symptoms: increased thirst, frequent urination, fatigue, blurred vision
+- Can be caused by stress, illness, certain medications
+
+Low blood glucose (Hypoglycemia):
+- Blood sugar below 70 mg/dL
+- Symptoms: shakiness, sweating, confusion, rapid heartbeat
+- Can be caused by skipping meals, too much insulin, excessive exercise
+
+IMPORTANT: Do not self-diagnose based on a single reading. Consult your doctor for proper diagnosis and treatment.

@@ -1,0 +1,40 @@
+Thyroid Function Tests - Medical Reference
+Source: MedlinePlus/NIH
+
+OVERVIEW:
+Thyroid function tests are a series of blood tests used to measure how well your thyroid gland is working. The main tests are TSH, T3, and T4.
+
+NORMAL REFERENCE RANGES:
+TSH (Thyroid Stimulating Hormone):
+- Normal: 0.4 to 4.0 mIU/L
+- Low TSH: May indicate hyperthyroidism (overactive thyroid)
+- High TSH: May indicate hypothyroidism (underactive thyroid)
+
+Free T4 (Thyroxine):
+- Normal: 0.8 to 1.8 ng/dL
+- Low T4 with high TSH: Hypothyroidism
+- High T4 with low TSH: Hyperthyroidism
+
+Free T3 (Triiodothyronine):
+- Normal: 2.3 to 4.1 pg/mL
+- T3 is the active form of thyroid hormone
+
+WHAT ABNORMAL RESULTS MEAN:
+Hypothyroidism (Underactive Thyroid):
+- High TSH, Low T4
+- Symptoms: fatigue, weight gain, cold intolerance, depression, constipation, dry skin
+- Most common cause: Hashimoto's thyroiditis (autoimmune)
+- Treatment: Daily levothyroxine medication
+
+Hyperthyroidism (Overactive Thyroid):
+- Low TSH, High T4/T3
+- Symptoms: weight loss, rapid heartbeat, anxiety, heat intolerance, tremors
+- Most common cause: Graves' disease (autoimmune)
+- Treatment: Anti-thyroid medications, radioactive iodine, or surgery
+
+Subclinical Hypothyroidism:
+- High TSH but normal T4
+- May not have symptoms
+- Doctor will decide whether treatment is needed
+
+IMPORTANT: Thyroid levels can be affected by pregnancy, certain medications, and illness. Always discuss results with your doctor before making any changes to medication.

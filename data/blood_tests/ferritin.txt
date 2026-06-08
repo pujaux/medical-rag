@@ -1,0 +1,31 @@
+Ferritin Blood Test - Medical Reference
+Source: MedlinePlus/NIH
+
+OVERVIEW:
+A ferritin test measures the amount of ferritin in your blood. Ferritin is a protein that stores iron inside your cells. This test helps evaluate your body's iron stores.
+
+NORMAL REFERENCE RANGES:
+- Men: 24 to 336 micrograms per liter (mcg/L)
+- Women (18-39 years): 11 to 307 mcg/L
+- Women (40+ years): 13 to 150 mcg/L
+- Children (6 months to 15 years): 7 to 140 mcg/L
+
+WHAT ABNORMAL RESULTS MEAN:
+Low Ferritin:
+- Below normal range indicates iron deficiency
+- May lead to iron deficiency anemia
+- Symptoms: fatigue, weakness, hair loss, brittle nails, shortness of breath
+- Common in women with heavy periods, pregnant women, vegetarians
+
+High Ferritin:
+- May indicate hemochromatosis (iron overload disorder)
+- Can also be elevated due to liver disease, rheumatoid arthritis, hyperthyroidism
+- Symptoms of iron overload: joint pain, fatigue, abdominal pain
+- Very high levels (above 1000 mcg/L) require immediate medical attention
+
+RELATED TESTS:
+- Serum iron test
+- Total iron-binding capacity (TIBC)
+- Complete blood count (CBC)
+
+IMPORTANT: Ferritin is also an acute phase reactant - it can be elevated during infection or inflammation even when iron stores are normal. Always interpret in context with other tests.

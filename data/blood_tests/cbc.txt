@@ -1,0 +1,42 @@
+Complete Blood Count (CBC) - Medical Reference
+Source: MedlinePlus/NIH
+
+OVERVIEW:
+A complete blood count (CBC) is a blood test used to evaluate your overall health and detect a wide range of disorders, including anemia, infection and leukemia.
+
+NORMAL REFERENCE RANGES:
+Red Blood Cells (RBC):
+- Men: 4.5 to 5.5 million cells/mcL
+- Women: 4.0 to 5.0 million cells/mcL
+
+Hemoglobin:
+- Men: 13.5 to 17.5 grams/dL
+- Women: 12.0 to 15.5 grams/dL
+
+Hematocrit:
+- Men: 38.8 to 50.0 percent
+- Women: 34.9 to 44.5 percent
+
+White Blood Cells (WBC):
+- Normal: 4,500 to 11,000 cells/mcL
+- High WBC may indicate infection, inflammation, or leukemia
+- Low WBC may indicate bone marrow problems or autoimmune conditions
+
+Platelets:
+- Normal: 150,000 to 450,000 platelets/mcL
+- Low platelets (thrombocytopenia) can cause bleeding problems
+- High platelets (thrombocytosis) can cause clotting problems
+
+Mean Corpuscular Volume (MCV):
+- Normal: 80 to 100 femtoliters
+- High MCV suggests B12 or folate deficiency
+- Low MCV suggests iron deficiency anemia
+
+WHAT ABNORMAL RESULTS MEAN:
+- Low hemoglobin: Anemia - causes fatigue, weakness, pale skin
+- High WBC: Possible infection, stress, or blood disorder
+- Low WBC: Weakened immune system
+- Low platelets: Risk of excessive bleeding
+- High platelets: Risk of blood clots
+
+IMPORTANT: These are general reference ranges. Normal values may vary slightly between laboratories. Always consult your doctor for interpretation of your specific results.

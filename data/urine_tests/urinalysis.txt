@@ -1,0 +1,46 @@
+Urinalysis (Urine Test) - Medical Reference
+Source: MedlinePlus/NIH
+
+OVERVIEW:
+Urinalysis is a test of your urine. It is used to detect and manage a wide range of disorders such as urinary tract infections, kidney disease, and diabetes.
+
+NORMAL REFERENCE RANGES:
+Appearance:
+- Normal: Clear to slightly cloudy, pale to dark yellow
+- Cloudy urine may indicate infection or kidney disease
+
+pH:
+- Normal: 4.5 to 8.0
+- Average: around 6.0 (slightly acidic)
+
+Specific Gravity:
+- Normal: 1.005 to 1.030
+- Measures kidney's ability to concentrate urine
+
+Protein:
+- Normal: Negative or trace amounts (less than 150 mg/day)
+- High protein (proteinuria) may indicate kidney disease
+
+Glucose:
+- Normal: Negative (no glucose in urine)
+- Glucose in urine may indicate diabetes
+
+Ketones:
+- Normal: Negative
+- Positive ketones may indicate diabetic ketoacidosis or starvation
+
+Red Blood Cells (RBC):
+- Normal: 0 to 4 cells per high power field
+- High RBC may indicate kidney stones, infection, or kidney disease
+
+White Blood Cells (WBC):
+- Normal: 0 to 5 cells per high power field
+- High WBC strongly suggests urinary tract infection (UTI)
+
+WHAT ABNORMAL RESULTS MEAN:
+- Positive nitrites + high WBC: Likely bacterial UTI
+- Protein in urine: Possible kidney damage
+- Glucose in urine: Possible diabetes
+- Blood in urine (hematuria): Kidney stones, infection, or rarely cancer
+
+IMPORTANT: A single abnormal urinalysis does not diagnose a condition. Follow-up tests and clinical evaluation by a doctor are required.
