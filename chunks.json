@@ -1,0 +1,110 @@
+[
+  {
+    "text": "Blood Glucose Test - Medical Reference\nSource: MedlinePlus/NIH\n\nOVERVIEW:\nA blood glucose test measures the amount of glucose (sugar) in your blood. It is used to diagnose and monitor diabetes and prediabetes.\n\nNORMAL REFERENCE RANGES:\nFasting Blood Glucose (no food for 8 hours):\n- Normal: 70 to 99 mg/dL\n- Prediabetes: 100 to 125 mg/dL\n- Diabetes: 126 mg/dL or higher (confirmed with repeat test)\n\nRandom Blood Glucose (any time of day):\n- Normal: Less than 140 mg/dL\n- Diabetes likely: 200 mg/dL o",
+    "source": "blood_glucose.txt",
+    "category": "blood_tests",
+    "chunk_index": 0
+  },
+  {
+    "text": "Less than 140 mg/dL\n- Diabetes likely: 200 mg/dL or higher with symptoms\n\nHbA1c (3-month average):\n- Normal: Below 5.7%\n- Prediabetes: 5.7% to 6.4%\n- Diabetes: 6.5% or higher\n\nPostprandial (2 hours after eating):\n- Normal: Less than 140 mg/dL\n- Prediabetes: 140 to 199 mg/dL\n- Diabetes: 200 mg/dL or higher\n\nWHAT ABNORMAL RESULTS MEAN:\nHigh blood glucose (Hyperglycemia):\n- May indicate diabetes or prediabetes\n- Symptoms: increased thirst, frequent urination, fatigue, blurred vision\n- Can be caused",
+    "source": "blood_glucose.txt",
+    "category": "blood_tests",
+    "chunk_index": 1
+  },
+  {
+    "text": "urination, fatigue, blurred vision\n- Can be caused by stress, illness, certain medications\n\nLow blood glucose (Hypoglycemia):\n- Blood sugar below 70 mg/dL\n- Symptoms: shakiness, sweating, confusion, rapid heartbeat\n- Can be caused by skipping meals, too much insulin, excessive exercise\n\nIMPORTANT: Do not self-diagnose based on a single reading. Consult your doctor for proper diagnosis and treatment.",
+    "source": "blood_glucose.txt",
+    "category": "blood_tests",
+    "chunk_index": 2
+  },
+  {
+    "text": "Complete Blood Count (CBC) - Medical Reference\nSource: MedlinePlus/NIH\n\nOVERVIEW:\nA complete blood count (CBC) is a blood test used to evaluate your overall health and detect a wide range of disorders, including anemia, infection and leukemia.\n\nNORMAL REFERENCE RANGES:\nRed Blood Cells (RBC):\n- Men: 4.5 to 5.5 million cells/mcL\n- Women: 4.0 to 5.0 million cells/mcL\n\nHemoglobin:\n- Men: 13.5 to 17.5 grams/dL\n- Women: 12.0 to 15.5 grams/dL\n\nHematocrit:\n- Men: 38.8 to 50.0 percent\n- Women: 34.9 to 44",
+    "source": "cbc.txt",
+    "category": "blood_tests",
+    "chunk_index": 0
+  },
+  {
+    "text": "t:\n- Men: 38.8 to 50.0 percent\n- Women: 34.9 to 44.5 percent\n\nWhite Blood Cells (WBC):\n- Normal: 4,500 to 11,000 cells/mcL\n- High WBC may indicate infection, inflammation, or leukemia\n- Low WBC may indicate bone marrow problems or autoimmune conditions\n\nPlatelets:\n- Normal: 150,000 to 450,000 platelets/mcL\n- Low platelets (thrombocytopenia) can cause bleeding problems\n- High platelets (thrombocytosis) can cause clotting problems\n\nMean Corpuscular Volume (MCV):\n- Normal: 80 to 100 femtoliters\n- H",
+    "source": "cbc.txt",
+    "category": "blood_tests",
+    "chunk_index": 1
+  },
+  {
+    "text": " Volume (MCV):\n- Normal: 80 to 100 femtoliters\n- High MCV suggests B12 or folate deficiency\n- Low MCV suggests iron deficiency anemia\n\nWHAT ABNORMAL RESULTS MEAN:\n- Low hemoglobin: Anemia - causes fatigue, weakness, pale skin\n- High WBC: Possible infection, stress, or blood disorder\n- Low WBC: Weakened immune system\n- Low platelets: Risk of excessive bleeding\n- High platelets: Risk of blood clots\n\nIMPORTANT: These are general reference ranges. Normal values may vary slightly between laboratories",
+    "source": "cbc.txt",
+    "category": "blood_tests",
+    "chunk_index": 2
+  },
+  {
+    "text": "rmal values may vary slightly between laboratories. Always consult your doctor for interpretation of your specific results.",
+    "source": "cbc.txt",
+    "category": "blood_tests",
+    "chunk_index": 3
+  },
+  {
+    "text": "Ferritin Blood Test - Medical Reference\nSource: MedlinePlus/NIH\n\nOVERVIEW:\nA ferritin test measures the amount of ferritin in your blood. Ferritin is a protein that stores iron inside your cells. This test helps evaluate your body's iron stores.\n\nNORMAL REFERENCE RANGES:\n- Men: 24 to 336 micrograms per liter (mcg/L)\n- Women (18-39 years): 11 to 307 mcg/L\n- Women (40+ years): 13 to 150 mcg/L\n- Children (6 months to 15 years): 7 to 140 mcg/L\n\nWHAT ABNORMAL RESULTS MEAN:\nLow Ferritin:\n- Below norma",
+    "source": "ferritin.txt",
+    "category": "blood_tests",
+    "chunk_index": 0
+  },
+  {
+    "text": "ABNORMAL RESULTS MEAN:\nLow Ferritin:\n- Below normal range indicates iron deficiency\n- May lead to iron deficiency anemia\n- Symptoms: fatigue, weakness, hair loss, brittle nails, shortness of breath\n- Common in women with heavy periods, pregnant women, vegetarians\n\nHigh Ferritin:\n- May indicate hemochromatosis (iron overload disorder)\n- Can also be elevated due to liver disease, rheumatoid arthritis, hyperthyroidism\n- Symptoms of iron overload: joint pain, fatigue, abdominal pain\n- Very high leve",
+    "source": "ferritin.txt",
+    "category": "blood_tests",
+    "chunk_index": 1
+  },
+  {
+    "text": "int pain, fatigue, abdominal pain\n- Very high levels (above 1000 mcg/L) require immediate medical attention\n\nRELATED TESTS:\n- Serum iron test\n- Total iron-binding capacity (TIBC)\n- Complete blood count (CBC)\n\nIMPORTANT: Ferritin is also an acute phase reactant - it can be elevated during infection or inflammation even when iron stores are normal. Always interpret in context with other tests.",
+    "source": "ferritin.txt",
+    "category": "blood_tests",
+    "chunk_index": 2
+  },
+  {
+    "text": "Thyroid Function Tests - Medical Reference\nSource: MedlinePlus/NIH\n\nOVERVIEW:\nThyroid function tests are a series of blood tests used to measure how well your thyroid gland is working. The main tests are TSH, T3, and T4.\n\nNORMAL REFERENCE RANGES:\nTSH (Thyroid Stimulating Hormone):\n- Normal: 0.4 to 4.0 mIU/L\n- Low TSH: May indicate hyperthyroidism (overactive thyroid)\n- High TSH: May indicate hypothyroidism (underactive thyroid)\n\nFree T4 (Thyroxine):\n- Normal: 0.8 to 1.8 ng/dL\n- Low T4 with high ",
+    "source": "thyroid.txt",
+    "category": "hormones",
+    "chunk_index": 0
+  },
+  {
+    "text": "e):\n- Normal: 0.8 to 1.8 ng/dL\n- Low T4 with high TSH: Hypothyroidism\n- High T4 with low TSH: Hyperthyroidism\n\nFree T3 (Triiodothyronine):\n- Normal: 2.3 to 4.1 pg/mL\n- T3 is the active form of thyroid hormone\n\nWHAT ABNORMAL RESULTS MEAN:\nHypothyroidism (Underactive Thyroid):\n- High TSH, Low T4\n- Symptoms: fatigue, weight gain, cold intolerance, depression, constipation, dry skin\n- Most common cause: Hashimoto's thyroiditis (autoimmune)\n- Treatment: Daily levothyroxine medication\n\nHyperthyroidism",
+    "source": "thyroid.txt",
+    "category": "hormones",
+    "chunk_index": 1
+  },
+  {
+    "text": "t: Daily levothyroxine medication\n\nHyperthyroidism (Overactive Thyroid):\n- Low TSH, High T4/T3\n- Symptoms: weight loss, rapid heartbeat, anxiety, heat intolerance, tremors\n- Most common cause: Graves' disease (autoimmune)\n- Treatment: Anti-thyroid medications, radioactive iodine, or surgery\n\nSubclinical Hypothyroidism:\n- High TSH but normal T4\n- May not have symptoms\n- Doctor will decide whether treatment is needed\n\nIMPORTANT: Thyroid levels can be affected by pregnancy, certain medications, and",
+    "source": "thyroid.txt",
+    "category": "hormones",
+    "chunk_index": 2
+  },
+  {
+    "text": "be affected by pregnancy, certain medications, and illness. Always discuss results with your doctor before making any changes to medication.",
+    "source": "thyroid.txt",
+    "category": "hormones",
+    "chunk_index": 3
+  },
+  {
+    "text": "Urinalysis (Urine Test) - Medical Reference\nSource: MedlinePlus/NIH\n\nOVERVIEW:\nUrinalysis is a test of your urine. It is used to detect and manage a wide range of disorders such as urinary tract infections, kidney disease, and diabetes.\n\nNORMAL REFERENCE RANGES:\nAppearance:\n- Normal: Clear to slightly cloudy, pale to dark yellow\n- Cloudy urine may indicate infection or kidney disease\n\npH:\n- Normal: 4.5 to 8.0\n- Average: around 6.0 (slightly acidic)\n\nSpecific Gravity:\n- Normal: 1.005 to 1.030\n- M",
+    "source": "urinalysis.txt",
+    "category": "urine_tests",
+    "chunk_index": 0
+  },
+  {
+    "text": "c)\n\nSpecific Gravity:\n- Normal: 1.005 to 1.030\n- Measures kidney's ability to concentrate urine\n\nProtein:\n- Normal: Negative or trace amounts (less than 150 mg/day)\n- High protein (proteinuria) may indicate kidney disease\n\nGlucose:\n- Normal: Negative (no glucose in urine)\n- Glucose in urine may indicate diabetes\n\nKetones:\n- Normal: Negative\n- Positive ketones may indicate diabetic ketoacidosis or starvation\n\nRed Blood Cells (RBC):\n- Normal: 0 to 4 cells per high power field\n- High RBC may indica",
+    "source": "urinalysis.txt",
+    "category": "urine_tests",
+    "chunk_index": 1
+  },
+  {
+    "text": "4 cells per high power field\n- High RBC may indicate kidney stones, infection, or kidney disease\n\nWhite Blood Cells (WBC):\n- Normal: 0 to 5 cells per high power field\n- High WBC strongly suggests urinary tract infection (UTI)\n\nWHAT ABNORMAL RESULTS MEAN:\n- Positive nitrites + high WBC: Likely bacterial UTI\n- Protein in urine: Possible kidney damage\n- Glucose in urine: Possible diabetes\n- Blood in urine (hematuria): Kidney stones, infection, or rarely cancer\n\nIMPORTANT: A single abnormal urinalys",
+    "source": "urinalysis.txt",
+    "category": "urine_tests",
+    "chunk_index": 2
+  },
+  {
+    "text": "rely cancer\n\nIMPORTANT: A single abnormal urinalysis does not diagnose a condition. Follow-up tests and clinical evaluation by a doctor are required.",
+    "source": "urinalysis.txt",
+    "category": "urine_tests",
+    "chunk_index": 3
+  }
+]
