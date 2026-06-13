@@ -10,11 +10,15 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Load everything once
-embedder = SentenceTransformer("all-MiniLM-L6-v2")
-index = faiss.read_index("faiss_index.bin")
-with open("chunks_metadata.pkl", "rb") as f:
-    chunks = pickle.load(f)
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+try:
+    embedder = SentenceTransformer("all-MiniLM-L6-v2")
+    index = faiss.read_index("faiss_index.bin")
+    with open("chunks_metadata.pkl", "rb") as f:
+        chunks = pickle.load(f)
+    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+    print("✓ RAG pipeline loaded successfully")
+except Exception as e:
+    print(f"❌ Error loading RAG pipeline: {e}")
 
 SYSTEM_PROMPT = """You are a helpful medical information assistant. 
 Your job is to explain medical test results in simple, easy-to-understand language.
