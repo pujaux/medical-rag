@@ -1,7 +1,7 @@
 import streamlit as st
 import os
-from rag_pipeline import ask, retrieve_chunks, generate_answer
-from safety_layer import check_query
+from backend.rag_pipeline import ask, retrieve_chunks, generate_answer
+from backend.safety_layer import check_query
 
 # Page config
 st.set_page_config(

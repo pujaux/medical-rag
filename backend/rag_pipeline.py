@@ -67,7 +67,7 @@ Please answer the question based only on the context above."""
     return response.choices[0].message.content
 
 def ask(query):
-    from safety_layer import check_query
+    from backend.safety_layer import check_query
     is_safe, message = check_query(query)
     if not is_safe:
         print(f"\n🚫 Query blocked: {message}")

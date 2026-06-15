@@ -4,7 +4,7 @@ print("SCRIPT STARTED", flush=True)
 
 import json
 import pickle
-from safety_layer import check_query
+from backend.safety_layer import check_query
 print("✓ Safety layer imported", flush=True)
 
 # Load chunks metadata only
