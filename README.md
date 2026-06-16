@@ -20,6 +20,36 @@
 Most people in India receive lab reports filled with numbers they don't understand — *"Hemoglobin: 10.2 g/dL"* or *"TSH: 6.8 mIU/L"* — without any explanation. Doctor consultations are expensive, time-consuming, and often unavailable in rural areas. This project bridges that gap by explaining what your test results mean in plain language, for free, instantly.
 
 ---
+## 📁 Project Structure
+
+```
+medical-rag/
+├── backend/
+│   ├── api.py                  # FastAPI server — main entry point
+│   ├── rag_pipeline.py         # Core RAG: retrieve + generate answer
+│   ├── safety_layer.py         # Blocks dangerous queries
+│   ├── embedder.py             # Embeds chunks into FAISS index
+│   ├── chunker.py              # Splits documents into 500-char chunks
+│   ├── pdf_loader.py           # Loads medical text files
+│   ├── create_data.py          # Creates medical reference documents
+│   ├── evaluation.py           # Custom evaluation framework
+│   ├── app.py                  # Streamlit UI (prototype version)
+│   ├── faiss_index.bin         # Saved FAISS vector index
+│   └── chunks_metadata.pkl     # Chunk metadata (source, category)
+├── frontend/
+│   ├── src/
+│   │   ├── App.js              # Main React chat interface
+│   │   └── index.css           # Tailwind CSS imports
+│   ├── tailwind.config.js
+│   └── package.json
+├── data/
+│   ├── blood_tests/            # CBC, glucose, ferritin references
+│   ├── hormones/               # Thyroid (TSH) reference
+│   └── urine_tests/            # Urinalysis reference
+├── .gitignore
+└── README.md
+```
+---
 
 ## ✨ Features
 
