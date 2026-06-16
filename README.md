@@ -7,8 +7,11 @@
 ---
 
 ## 📸 Preview
+<img width="1366" height="638" alt="Screenshot (2767)" src="https://github.com/user-attachments/assets/6ecf8ce1-a6e8-4761-b007-018c589f905d" />
 
-![App Screenshot](screenshot.png)
+<img width="1366" height="643" alt="Screenshot (2769)" src="https://github.com/user-attachments/assets/a50fee3c-524e-4a09-9845-b963613a45fb" />
+
+<img width="1366" height="647" alt="Screenshot (2770)" src="https://github.com/user-attachments/assets/45b00579-22a3-4805-8ea6-ce42c36c7038" />
 
 ---
 
