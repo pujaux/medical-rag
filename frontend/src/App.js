@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
-const API_URL = "http://localhost:8002";
+const API_URL = "https://medical-rag-production.up.railway.app";
 
 const SUGGESTIONS = [
   "What is normal hemoglobin?",
