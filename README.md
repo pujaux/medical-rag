@@ -2,7 +2,7 @@
 
 > Ask questions about your medical test results in plain English. Get instant, cited, safe answers — powered by RAG + Groq LLM.
 
-🔗 **[Live Demo](#)** · 👩‍💻 **[Puja Rani Bhuyan](https://github.com/pujaux)**
+🔗 **[https://medical-a2lx4bgjn-puja-rani-bhuyan-s-projects.vercel.app/](#)** · 👩‍💻 **[Puja Rani Bhuyan](https://github.com/pujaux)**
 
 ---
 
