@@ -1,5 +1,4 @@
 import { useState, useRef, useEffect } from "react";
-
 const API_URL = "https://medical-rag-production.up.railway.app";
 
 const SUGGESTIONS = [
