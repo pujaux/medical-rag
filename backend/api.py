@@ -93,7 +93,7 @@ def ask(request: QueryRequest):
 
     return QueryResponse(
         answer=response.choices[0].message.content,
-        sources=[{"source": c["source"], "category": c["category"]} 
-                for c in retrieved],
+        sources=[{"source": c["source"], "category": c["category"], "content": c["text"][:200]} 
+        for c in retrieved],
         is_blocked=False
     )
