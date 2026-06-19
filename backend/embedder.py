@@ -8,7 +8,6 @@ def create_vector_store(chunks_file="chunks.json"):
     with open(chunks_file, "r", encoding="utf-8") as f:
         chunks = json.load(f)
     print(f"✓ Loaded {len(chunks)} chunks")
-
     print("✓ Loading embedding model...")
     embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
